@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.formname{
+    text-align: center;
+}
+.bad{
+    text-align: right;
+}
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px
+    ;
+}
+.Sign{
+    text-align: right;
+}
+body{
+    background-color: cornflowerblue;
+}
